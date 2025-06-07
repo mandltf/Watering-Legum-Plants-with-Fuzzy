@@ -25,5 +25,5 @@ An intelligent fuzzy-based decision support system to determine the optimal wate
 ## 🛠️ Languages and Tools
 
 <div>
-    <img src="https://skillicons.dev/icons?i=python,vscode"/><br/>
+    <img src="https://skillicons.dev/icons?i=python,vscode,github"/><br/>
 </div>
