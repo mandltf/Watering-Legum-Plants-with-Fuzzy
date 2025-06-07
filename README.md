@@ -14,9 +14,13 @@ An intelligent fuzzy-based decision support system to determine the optimal wate
 - 📊 Visual Output Display
 - 💻 Simple and Interactive UI using Streamlit (or your framework)
 
-| Input Form | Output Result |
-|:----------:|:-------------:|
-| ![Input](screenshoot/input.png) | ![Output](screenshoot/output.png) |
+| Dashboard | Show Datasets | Data Grapgh |
+|:----------:|:-------------:|:-------------:|
+| ![Input](fuzzy/1.PNG) | ![Output](fuzzy/2.PNG) | ![Output](fuzzy/3.PNG) |
+
+| Select Data | Fuzzy Graph | Fuzzy Grapgh |
+|:----------:|:-------------:|:-------------:|
+| ![Input](fuzzy/4.PNG) | ![Output](fuzzy/5.PNG) | ![Output](fuzzy/6.PNG) |
 
 ## 🛠️ Languages and Tools
 
